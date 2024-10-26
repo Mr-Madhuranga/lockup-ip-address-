@@ -1,4 +1,4 @@
-# Ip Phone Lookup
+# Ip Phone Loooup
  
 🔥 𝘀𝘁𝗲𝗽 1 
 Install following libries using following code
